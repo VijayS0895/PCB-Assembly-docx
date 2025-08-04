@@ -1,0 +1,27 @@
+## 🧰 Fixture List
+
+- 🔲 Solder Printing Fixture
+- 🔥 Reflow Support Fixture
+- 🔩 SMT Placement Support Fixture
+- 📏 PCB Thickness Check Fixture
+- 📐 Board Outline Check Fixture
+- 🎯 Component Alignment Fixture
+- 🧪 ICT (In-Circuit Test) Fixture
+- 🔧 Functional Test (FCT) Fixture
+- 🪛 Manual Assembly Fixture
+- 🌀 Depaneling Support Fixture
+- 🧲 Wave Solder Pallet
+- 🧱 Conformal Coating Mask Fixture
+- 🛡️ ESD Protection Fixture
+- 🧭 AOI (Automated Optical Inspection) Fixture
+- 📸 X-ray Inspection Fixture
+- 🧮 Fixture for Odd-Form Component Placement
+- 🧊 Heat Sink Alignment Fixture
+- 🛠️ Label Placement Fixture
+- 📎 Connector Insertion Fixture
+- 📦 Final Assembly Support Fixture
+- 🔍 Microscope Support Jig
+- ⛓️ BGA Reballing Fixture
+- 🧲 Magnetic Clamp Fixture (for thin PCBs)
+- ♻️ Cleaning Support Fixture
+- ⚙️ SMT Rework Support Fixture
